@@ -1,4 +1,4 @@
-SWU Information Security  
+SWU Information Security   
 ECAC-Education Certification And Community
 
 <!--
